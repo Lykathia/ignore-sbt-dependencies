@@ -12,3 +12,4 @@ With mappings:
 
     > sbt stage
     > ls target/universal/stage/lib/
+    root.root-0.1-SNAPSHOT.jar
